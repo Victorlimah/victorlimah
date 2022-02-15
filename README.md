@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlimah&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 JUnior Web Developer 
+- 🔥 Junior Web Developer 
 
 - 🔭 I’m currently studying at [Driven](https://driven.com.br/)
 
@@ -40,6 +40,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=victorlimah&show_icons=true&theme=vision-friendly-dark" alt="victorlimah's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimah&layout=compact&theme=vision-friendly-dark" alt="victorlimah's most languages"/>
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=victorlimah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br><br>
 
