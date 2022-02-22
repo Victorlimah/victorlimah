@@ -4,7 +4,9 @@
 
 - 🔥 Desenvolvedor Web Fullstack Junior
 
-- 🔭 Atualmente estudando na [Driven](https://driven.com.br/)
+- 📚 Bacharelando em Sistemas de Informação na [UFPB](http://www.ccae.ufpb.br/si)
+
+- 🔭 Atualmente estudando no bootcamp fullstack da [Driven](https://driven.com.br/)
 
 <!--
 - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) // Criar portfólio
