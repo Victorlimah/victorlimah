@@ -1,19 +1,19 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Lima</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Victor!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlimah&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer 
+- 🔥 Desenvolvedor Web Fullstack Junior
 
-- 🔭 I’m currently studying at [Driven](https://driven.com.br/)
+- 🔭 Atualmente estudando na [Driven](https://driven.com.br/)
 
 <!--
 - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) // Criar portfólio
 -->
-- ▶️ I regularly post videos and article on [linkedin.com/victorlimah](https://linkedin.com/in/victorlimah)
+- ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
 
-- 💬 Ask me about **, HTML, CSS, JavaScript, React.Js, Node.JS**
+- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js, Node.JS**
 
-- ⚡ Fun fact **I am a BJJ athlete 🥋**
+- ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
 
 <br><br>
 
@@ -36,8 +36,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=victorlimah&show_icons=true&theme=vision-friendly-dark" alt="victorlimah's stats"/>
-<img width="499em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimah&layout=compact&theme=vision-friendly-dark" alt="victorlimah's most languages"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api?username=victorlimah&show_icons=true&theme=vision-friendly-dark" alt="victorlimah's stats"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimah&layout=compact&theme=vision-friendly-dark" alt="victorlimah's most languages"/>
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=victorlimah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
