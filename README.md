@@ -10,9 +10,9 @@
 
 <!--
 - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) // Criar portfólio
--->
-- ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
 
+- ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
+-->
 - 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js, Node.JS**
 
 - ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
