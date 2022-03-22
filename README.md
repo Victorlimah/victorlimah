@@ -13,7 +13,7 @@
 
 - ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
 -->
-- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js, Node.JS**
+- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js... ^^**
 
 - ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
 
