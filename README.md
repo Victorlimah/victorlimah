@@ -31,7 +31,7 @@
 
 <br>
 
-## 🛠 &nbsp;Estudando
+## 📚 &nbsp;Estudando
 
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
