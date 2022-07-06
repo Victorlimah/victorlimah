@@ -1,6 +1,10 @@
 
 <h1 align="left">Olá, eu sou o Victor!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorlimah&color=yellow" alt="Profile views" /> </p>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=victorlimah&color=yellow" alt="Hours coding" />
+  <img src="https://wakatime.com/badge/user/207ceaad-2449-4708-b478-9daf6f5992b9.svg" alt="Profile views" />
+</div>
 
 - 🔥 Desenvolvedor Front-end Junior
 
