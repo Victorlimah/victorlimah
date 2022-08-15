@@ -6,7 +6,7 @@
   <img src="https://wakatime.com/badge/user/207ceaad-2449-4708-b478-9daf6f5992b9.svg" alt="Profile views" />
 </div>
 
-- 🔥 Desenvolvedor Front-end Junior
+- 🔥 Desenvolvedor Fullstack Junior
 
 - 📚 Bacharelando em Sistemas de Informação na [UFPB](http://www.ccae.ufpb.br/si)
 
@@ -17,7 +17,7 @@
 
 - ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
 -->
-- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js... ^^**
+- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js, Node.Js, Jest, Cypress, Typescript ^^**
 
 - ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
 
@@ -35,6 +35,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 
 <br>
 
@@ -42,16 +44,14 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=springboot)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="490em" src="https://github-readme-stats.vercel.app/api?username=victorlimah&show_icons=true&theme=vision-friendly-dark" alt="victorlimah's stats"/>
-<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimah&layout=compact&theme=vision-friendly-dark" alt="victorlimah's most languages"/>
+<img width="478px" src="https://github-readme-stats.vercel.app/api?username=victorlimah&show_icons=true&theme=vision-friendly-dark" alt="victorlimah's stats"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimah&layout=compact&theme=vision-friendly-dark" alt="victorlimah's most languages"/>
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=victorlimah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
