@@ -6,20 +6,13 @@
   <img src="https://wakatime.com/badge/user/207ceaad-2449-4708-b478-9daf6f5992b9.svg" alt="Profile views" />
 </div>
 
-- 🔥 Desenvolvedor Fullstack Junior
-
-- 📚 Bacharelando em Sistemas de Informação na [UFPB](http://www.ccae.ufpb.br/si)
-
-- 🔭 Atualmente estudando no bootcamp fullstack da [Driven](https://driven.com.br/)
-
-<!--
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) // Criar portfólio
-
-- ▶️ Publico vídeos dos meus projetos no meu [linkedin.](https://linkedin.com/in/victorlimah)
--->
-- 💬 Podemos conversar sobre **HTML, CSS, JavaScript, React.Js, Node.Js, Jest, Cypress, Typescript ^^**
-
+- 🔥 Desenvolvedor Fullstack | Springboot | NodeJs | ReactJs
 - ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
+- 📚 Bacharelando em Sistemas de Informação na [UFPB]([http://www.ccae.ufpb.br/si](https://www.ufpb.br/si))
+- 🔭 Certificado de desenvolvedor fullstack pela [Driven Education](https://driven.com.br/)
+- ▶️ De vez em quando exponho opiniões no meu [linkedin.](https://linkedin.com/in/victorlimah)
+- ⌨️ As vezes escrevo posts no [dev.to](https://dev.to/victorlimah) 
+- 💬 Podemos conversar sobre **Frontend, backend, de JavaScript a Java, React.Js, Node.Js, Typescript e testes com Jest, Cypress, Postman e mais ^^**
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
