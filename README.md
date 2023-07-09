@@ -7,7 +7,7 @@
 </div>
 
 - 🔥 Desenvolvedor Fullstack | Springboot | NodeJs | ReactJs
-- ⚡  **Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋**
+- ⚡  Um atleta ( ou ex atleta ) de Jiu Jitsu 🥋
 - 📚 Bacharelando em Sistemas de Informação na [UFPB]([http://www.ccae.ufpb.br/si](https://www.ufpb.br/si))
 - 🔭 Certificado de desenvolvedor fullstack pela [Driven Education](https://driven.com.br/)
 - ▶️ De vez em quando exponho opiniões no meu [linkedin.](https://linkedin.com/in/victorlimah)
